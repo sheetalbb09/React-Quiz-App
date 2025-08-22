@@ -1,5 +1,3 @@
-
-
 <img width="639" alt="Screenshot 2024-08-28 at 17 02 45" src="https://github.com/user-attachments/assets/897f6fe7-25e8-42db-8c73-04bcd5974dad">
 
 # React- Quiz- App
@@ -25,27 +23,10 @@ This project is a web-based application that serves as a quiz platform. It allow
 - `questions.js`: Handles question-related functionalities like displaying and navigating between questions.
 - `app.css`: Stylesheet providing the visual styling for the application.
 
-## Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/ChandanaPrabhakar/React-Quiz-App.git
-   ```
-
-2. **Navigate to the project directory:**
-   ```bash
-   cd React-Quiz-App
-   ```
-
-3. **Open `index.html` in your preferred web browser:**
-
-   Simply double-click on the `index.html` file or open it using your browser.
-
 ## Usage
 
 - **Starting the Quiz:**
   Open the `index.html` file in your browser, and the quiz will begin.
-  
 - **Answering Questions:**
   Read each question and select your answer. Your score will be updated as you progress through the quiz.
 
@@ -62,5 +43,3 @@ This project is a web-based application that serves as a quiz platform. It allow
 
 - **Options:**
   The `options.js` file allows you to modify the settings for the quiz, such as time limits or question order.
-
-
